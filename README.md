@@ -1,1 +1,1 @@
-#Webアプリケーション　パス
+#Web開発パス(Ruby on rails)
