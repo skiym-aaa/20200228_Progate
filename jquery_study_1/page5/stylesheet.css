@@ -1,0 +1,11 @@
+/* 「h1」のdisplayプロパティをnoneにしてください */
+h1 {
+  display: none;
+}
+
+/* 「img」のdisplayプロパティをnoneにしてください */
+img {
+  display: none;
+}
+
+
