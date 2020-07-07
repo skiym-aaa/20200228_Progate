@@ -1,1 +1,1 @@
-#Web開発パス(Ruby on rails)
+#Progate
